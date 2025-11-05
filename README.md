@@ -51,9 +51,12 @@ The company wanted to understand:
 * Cleaned and standardized data (3,900 rows)
 * Handled missing values, created features (`age_group`, `discount_applied`, `purchase_frequency_days`)
   <p align="center">
-  <img src="images/py1.png" width="650">
+  <img src="Image/py2.png" width="450">
 </p>
 * Performed EDA using Pandas and Matplotlib
+ <p align="center">
+  <img src="Image/py1.png" width="650">
+</p>
 
 ### 🧮 **Phase 2 — Data Analysis (SQL)**
 
@@ -63,7 +66,13 @@ The company wanted to understand:
   * Discount impact
   * Shipping preference
   * Subscription performance
+     <p align="center">
+  <img src="Image/sql1.png" width="450">
+</p>
   * Customer segmentation and loyalty
+ <p align="center">
+  <img src="Image/sql2.png" width="450">
+</p>
 * Aggregated insights on spending and demographic patterns
 
 ### 📊 **Phase 3 — Visualization (Power BI)**
@@ -74,6 +83,9 @@ The company wanted to understand:
   * Discounted vs. non-discounted sales
   * Top-performing products and categories
   * Subscription performance and loyalty segmentation
+     <p align="center">
+  <img src="Image/dashboard.png" width="450">
+</p>
 
 ---
 
