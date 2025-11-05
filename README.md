@@ -49,7 +49,10 @@ The company wanted to understand:
 ### 🐍 **Phase 1 — Data Preparation (Python)**
 
 * Cleaned and standardized data (3,900 rows)
-* Handled missing values, created features (`age_group`, `discount_applied`, `customer_segment`)
+* Handled missing values, created features (`age_group`, `discount_applied`, `purchase_frequency_days`)
+  <p align="center">
+  <img src="images/py1.png" width="650">
+</p>
 * Performed EDA using Pandas and Matplotlib
 
 ### 🧮 **Phase 2 — Data Analysis (SQL)**
