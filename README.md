@@ -128,21 +128,6 @@ Convenience (express shipping) and strategic discounts significantly influence p
 
 ---
 
-## 📂 **Project Structure**
-
-```
-Customer_Shopping_Analysis/
-│
-├── Business Problem Document.pdf         # Problem Definition
-├── Customer_Shooping_Analysis.ipynb      # Python Data Cleaning & EDA
-├── Customer_analysis.sql                 # SQL Queries
-├── Customer_an.pbix                      # Power BI Dashboard
-├── Customer_Shopping_Analysis_Report.pdf # Final Report
-└── README.md                             # Project Documentation
-
-```
-
----
 
 ## 🧠 **Key Skills Demonstrated**
 
